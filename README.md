@@ -39,5 +39,5 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 If you have any questions or feedback, feel free to reach out!
 
-Email: [rominagoodarzi7@gamil.com]
+Email: rominagoodarzi7@gamil.com
 
