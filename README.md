@@ -19,20 +19,20 @@ The following libraries and tools are used in this project:
 
 The analysis produced several important findings:
 
-- Wealth Disparities: There is a significant and persistent wealth gap between Black and White households, particularly in housing wealth.
-- Impact of Education: Education plays a key role in wealth accumulation, but its effects vary across racial groups.
-- The 2007 Crisis: Wealth losses during the 2007 financial crisis were severe, with Black households experiencing disproportionately larger declines.
+- **Wealth Disparities**: There is a significant and persistent wealth gap between Black and White households, particularly in housing wealth.
+- **Impact of Education**: Education plays a key role in wealth accumulation, but its effects vary across racial groups.
+- **The 2007 Crisis**: Wealth losses during the 2007 financial crisis were severe, with Black households experiencing disproportionately larger declines.
 
 
 ## **Contributing**
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-I) Fork the repository.
-II) Create a feature branch (git checkout -b feature/your-feature-name).
-III) Commit your changes (git commit -m 'Add some feature').
-IV) Push to the branch (git push origin feature/your-feature-name).
-V) Open a pull request.
+- I) Fork the repository.
+- II) Create a feature branch (git checkout -b feature/your-feature-name).
+- III) Commit your changes (git commit -m 'Add some feature').
+- IV) Push to the branch (git push origin feature/your-feature-name).
+- V) Open a pull request.
 
 
 ## **Contact**
