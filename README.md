@@ -24,20 +24,10 @@ The analysis produced several important findings:
 - **The 2007 Crisis**: Wealth losses during the 2007 financial crisis were severe, with Black households experiencing disproportionately larger declines.
 
 
-## **Contributing**
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-- I) Fork the repository.
-- II) Create a feature branch (git checkout -b feature/your-feature-name).
-- III) Commit your changes (git commit -m 'Add some feature').
-- IV) Push to the branch (git push origin feature/your-feature-name).
-- V) Open a pull request.
 
 
-## **Contact**
+Any questions, comments, or feedbacks are welcomed!
+You may contact me by sending an email to rominagoodarzi7@gmail.com
 
-If you have any questions or feedback, feel free to reach out!
 
-Email: rominagoodarzi7@gamil.com
 
